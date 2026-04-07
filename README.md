@@ -1,10 +1,12 @@
-🚀 Login & Registration Form with MongoDB
+## 🚀 Login & Registration Form with MongoDB
 
 A simple full-stack web application where users can register using a stylish animated form. The user data is sent from the frontend to the backend and stored in a cloud database.
 
 This project demonstrates frontend ↔ backend communication and database integration in a beginner-friendly way.
 
-✨ Features
+---
+
+## ✨ Features
 
 ✅ Animated Wave Label Login Form
 ✅ Clean and responsive UI
@@ -13,7 +15,9 @@ This project demonstrates frontend ↔ backend communication and database integr
 ✅ Data stored in MongoDB Atlas
 ✅ Database interaction using Mongoose
 
-🛠 Tech Stack
+---
+
+## 🛠 Tech Stack
 🎨 Frontend
 
 HTML
@@ -34,7 +38,10 @@ MongoDB Atlas
 
 Mongoose
 
-📂 Project Structure
+---
+
+
+## 📂 Project Structure
 📦 login-form-project
  ┣ 📄 index.html      # Login/Register form
  ┣ 📄 style.css       # UI styling
@@ -49,6 +56,9 @@ Mongoose
 5️⃣ Data is stored in MongoDB Atlas
 
 User Form → JavaScript → Express API → MongoDB Atlas
+
+---
+
 ⚡ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/priyasangwan23/loginForm-.git
@@ -82,11 +92,17 @@ This project helps beginners understand:
 
 📱 Fully responsive design
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repository and improve the project.
 
 ⭐ If you found this project useful, consider giving it a star!
 
+---
+
 ## Author
 Priya Sangwan
+
+---
